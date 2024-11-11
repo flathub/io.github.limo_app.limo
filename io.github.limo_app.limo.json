@@ -18,7 +18,7 @@
             "CARGO_TARGET_AARCH64_UNKNOWN_LINUX_GNU_RUSTFLAGS": "-C link-arg=-fuse-ld=/usr/lib/sdk/rust-stable/bin/mold"
         }
   },
-  "command": "Limo",
+  "command": "limo",
   "finish-args":
   [
     "--share=ipc",
@@ -345,7 +345,7 @@
         {
           "type": "git",
           "url": "https://github.com/limo-app/limo.git",
-          "tag": "v1.0.7"
+          "tag": "v1.0.8.1"
         }
       ]
     }
