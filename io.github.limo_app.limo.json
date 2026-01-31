@@ -64,7 +64,8 @@
         {
           "type": "git",
           "url": "https://github.com/open-source-parsers/jsoncpp.git",
-          "tag": "1.9.5"
+          "tag": "1.9.5",
+          "commit": "5defb4ed1a4293b8e2bf641e16b156fb9de498cc"
         }
       ],
       "cleanup":
@@ -84,7 +85,8 @@
         {
           "type": "git",
           "url": "https://github.com/zeux/pugixml.git",
-          "tag": "v1.14"
+          "tag": "v1.14",
+          "commit": "db78afc2b7d8f043b4bc6b185635d949ea2ed2a8"
         }
       ],
       "cleanup":
@@ -106,7 +108,8 @@
         {
           "type": "git",
           "url": "https://github.com/libcpr/cpr.git",
-          "tag": "1.11.2"
+          "tag": "1.11.2",
+          "commit": "dd967cb48ea6bcbad9f1da5ada0db8ac0d532c06"
         }
       ],
       "cleanup":
@@ -129,7 +132,8 @@
         {
           "type": "git",
           "url": "https://github.com/oneapi-src/oneTBB.git",
-          "tag": "v2021.13.0"
+          "tag": "v2021.13.1",
+          "commit": "cd3ce3872a8917004fe148c7edc382b291e00328"
         }
       ],
       "cleanup":
@@ -180,7 +184,8 @@
           {
             "type": "git",
             "url": "https://github.com/mozilla/cbindgen.git",
-            "tag": "0.28.0"
+            "tag": "0.28.0",
+            "commit": "bd78bbe59b10eda6ef1255e4acda95c56c6d0279"
           },
           "dependencies/cbindgen-sources.json"
       ],
@@ -228,7 +233,8 @@
         {
           "type": "git",
           "url": "https://github.com/gabime/spdlog.git",
-          "tag": "v1.15.1"
+          "tag": "v1.15.1",
+          "commit": "f355b3d58f7067eee1706ff3c801c2361011f3d5"
         }
       ],
       "cleanup":
@@ -252,7 +258,8 @@
         {
           "type": "git",
           "url": "https://github.com/fmtlib/fmt.git",
-          "tag": "11.1.3"
+          "tag": "11.1.3",
+          "commit": "9cf9f38eded63e5e0fb95cd536ba51be601d7fa2"
         }
       ],
       "cleanup":
@@ -284,7 +291,8 @@
         {
           "type": "git",
           "url": "https://github.com/loot/libloot.git",
-          "tag": "0.25.5"
+          "tag": "0.25.5",
+          "commit": "2d96ba13d9edd19702cd694d089a51f9e969d3d2"
         },
         {
           "type": "patch",
@@ -328,7 +336,8 @@
         {
           "type": "git",
           "url": "https://github.com/aawc/unrar.git",
-          "tag": "v7.0.9"
+          "tag": "v7.0.9",
+          "commit": "12e82f940ab8d2739cbfe839bab548d68ccb1062"
         }
       ],
       "cleanup":
@@ -349,7 +358,8 @@
         {
           "type": "git",
           "url": "https://github.com/limo-app/limo.git",
-          "tag": "v1.2.2"
+          "tag": "v1.2.2",
+          "commit": "ffdb4f9b9e97208fb481023c0b3b7bcd6663f9f6"
         },
         {
           "type": "patch",
