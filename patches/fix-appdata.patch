@@ -1,0 +1,25 @@
+From 691252b36122752829c40b71e130ba9c943eb34a Mon Sep 17 00:00:00 2001
+From: =?UTF-8?q?Sabri=20=C3=9Cnal?= <yakushabb@gmail.com>
+Date: Sat, 31 Jan 2026 21:31:00 +0300
+Subject: [PATCH] Fix appdata paper cuts
+
+---
+ flatpak/io.github.limo_app.limo.metainfo.xml | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/flatpak/io.github.limo_app.limo.metainfo.xml b/flatpak/io.github.limo_app.limo.metainfo.xml
+index 3cd7320..3d9406f 100644
+--- a/flatpak/io.github.limo_app.limo.metainfo.xml
++++ b/flatpak/io.github.limo_app.limo.metainfo.xml
+@@ -197,7 +197,7 @@
+     </release>
+     <release version="1.0.3" date="2024-08-14">
+       <description>
+-        Initial release
++        <p>Initial release</p>
+       </description>
+     </release>
+   </releases>
+-- 
+2.52.0
+
